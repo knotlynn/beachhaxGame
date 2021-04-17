@@ -9,29 +9,34 @@ html{
 
 
 /*------ BLOCKING/LAYOUT -----------------------------------------------------*/
-/*------ TYPOGRAPHY ----------------------------------------------------------*/
 body{
-  font-family: 'Jost', sans-serif;
-  color: #f4f3ee;
-  line-height: 140%;
-  margin: 30px;
-
   background-image: url("background.gif");
   background-repeat: no-repeat;
   background-attachment: fixed;
   background-color: #F7F3DE;
+
 }
-  header h1{
+
+/*------ TYPOGRAPHY ----------------------------------------------------------*/
+p{
+  font-family: 'Quicksand', sans-serif;
+  color: #f4f3ee;
+  line-height: 140%;
+  margin: 30px;
+}
+
+
+  h1{
     font-family: 'Press Start 2P', cursive;
     color: #f4f3ee;
-    text-align: center;
     background-position:center;
+    text-align: center;
   }
 
 /*------ OTHER DESGINGING ----------------------------------------------------*/
 
 
-
+}
 
 a{
 color: #f4f3ee;
