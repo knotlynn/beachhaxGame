@@ -4,25 +4,26 @@
 
 
 body{
-  font-family: "Georgia", serif;
-color: #000000;
-line-height: 140%;
-margin: 30px;
+  font-family: 'Jost', sans-serif;
+  color: #000000;
+  line-height: 140%;
+  margin: 30px;
 
-background-image: url("background.gif");
-background-repeat: no-repeat;
-background-attachment: fixed;
-background-color: #F7F3DE;
+  background-image: url("background.gif");
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-color: #F7F3DE;
 }
 
 header h1{
-  color: green;
+  font-family: 'Press Start 2P', cursive;
+  color: #f4f3ee;
   background-position:center;
 }
 
 
 a{
-color: green;
+color: #f4f3ee;
 cursor: pointer;
 
 }
