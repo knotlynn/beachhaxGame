@@ -9,7 +9,7 @@ color: #000000;
 line-height: 140%;
 margin: 30px;
 
-/* background-image: url("ocean_background.jpeg"); Will be put in later for a better background */
+background-image: url("background.gif");
 background-repeat: no-repeat;
 background-attachment: fixed;
 background-color: #F7F3DE;
@@ -17,24 +17,12 @@ background-color: #F7F3DE;
 
 header h1{
   color: green;
-  font-size: 150px;
   background-position:center;
-  text-align: center;
 }
 
 
-div a{
+a{
 color: green;
-font-size: 40px;
 cursor: pointer;
-animation-name: example;
-animation-duration: 4s;
-
-}
-
-/* This will change the color of the "Continue" when pointer is over it*/
-@keyframes example{
-  from {color: green;}
-  to {color: black;}
 
 }
