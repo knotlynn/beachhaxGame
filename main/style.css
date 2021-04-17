@@ -4,9 +4,8 @@
 
 
 body{
-<<<<<<< HEAD
   font-family: 'Jost', sans-serif;
-  color: #000000;
+  color: #f4f3ee;
   line-height: 140%;
   margin: 30px;
 
@@ -19,35 +18,13 @@ body{
 header h1{
   font-family: 'Press Start 2P', cursive;
   color: #f4f3ee;
-=======
-  font-family: "Georgia", serif;
-color: #000000;
-line-height: 140%;
-margin: 30px;
-
-/* background-image: url("ocean_background.jpeg"); Will be put in later for a better background */
-background-repeat: no-repeat;
-background-attachment: fixed;
-background-color: #F7F3DE;
-}
-
-header h1{
-  color: green;
-  font-size: 150px;
->>>>>>> e3d90a45235461b7df5c03c64a30db96fdae6ead
   background-position:center;
   text-align: center;
 }
 
 
-<<<<<<< HEAD
 a{
 color: #f4f3ee;
-=======
-div a{
-color: green;
-font-size: 40px;
->>>>>>> e3d90a45235461b7df5c03c64a30db96fdae6ead
 cursor: pointer;
 animation-name: example;
 animation-duration: 4s;
