@@ -48,7 +48,7 @@ animation-duration: 4s;
 
 /* This will change the color of the "Continue" when pointer is over it*/
 @keyframes example{
-  from {color: green;}
+  from {color: #f4f3ee;}
   to {color: black;}
 
 }
