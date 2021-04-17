@@ -5,11 +5,10 @@ Contributors:
   -Alyssa Reyes
   -Anai Leos
   -Brenna Curtis
-  -Johnathat Garcia Moreno
+  -Jonathan Garcia Moreno
 
 Concept:
 
 Inspiration:
 
 Notes:
-
