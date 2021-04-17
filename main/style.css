@@ -20,18 +20,18 @@ body{
   background-repeat: no-repeat;
   background-attachment: fixed;
   background-color: #F7F3DE;
-
+}
   header h1{
     font-family: 'Press Start 2P', cursive;
     color: #f4f3ee;
-    background-position:center;
     text-align: center;
+    background-position:center;
   }
 
 /*------ OTHER DESGINGING ----------------------------------------------------*/
 
 
-}
+
 
 a{
 color: #f4f3ee;
