@@ -20,9 +20,11 @@ body{
 /*------ TYPOGRAPHY ----------------------------------------------------------*/
 p{
   font-family: 'Quicksand', sans-serif;
+  text-align: center;
   color: #f4f3ee;
   line-height: 140%;
   margin: 30px;
+  text-shadow: 1px 1px #0a1225;
 }
 
 
@@ -41,7 +43,7 @@ h1{
   animation-name: example;
   color: #f4f3ee;
   margin:60px;
-  padding-top:600px;
+  padding-top:400 px;
   list-style-type:none;
   text-align: center;
   font-size: 32px;
@@ -56,4 +58,5 @@ h1{
 .a2:hover{
   font-weight: bold;
   font-size: 30px;
+  color: #fff6db;
 }
