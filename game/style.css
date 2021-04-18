@@ -46,13 +46,12 @@ p{
   text-align: center;
 }
 
-
-  h1{
-    font-family: 'Press Start 2P', cursive;
-    color: #f4f3ee;
-    background-position:center;
-    text-align: center;
-  }
+h1{
+  font-family: 'Press Start 2P', cursive;
+  color: #f4f3ee;
+  background-position:center;
+  text-align: center;
+}
 
 /*------ OTHER DESGINGING ----------------------------------------------------*/
 img{
