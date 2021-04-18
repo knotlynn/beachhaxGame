@@ -80,8 +80,3 @@ a:hover{
 }
 
 /* This will change the color of the "Continue" when pointer is over it*/
-@keyframes example{
-  from {color: #f4f3ee;}
-  to {color: cyan;}
-
-}

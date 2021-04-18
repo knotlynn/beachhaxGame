@@ -36,3 +36,18 @@ p{
 
 
 /*------ OTHER DESGINGING ----------------------------------------------------*/
+.HomeMenuReturn{
+  font-family: 'Press Start 2P', cursive;
+  list-style-type:none;
+  position: absolute;
+ bottom: 80px;
+ right: 0;
+ width: 340px;
+ height: 100px;
+ font-size: 20px;
+  }
+
+  a:hover{
+    font-weight: bold;
+    font-size: 23px;
+  }
