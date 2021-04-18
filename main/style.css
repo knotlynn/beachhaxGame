@@ -30,25 +30,46 @@ p{
     font-family: 'Press Start 2P', cursive;
     color: #f4f3ee;
     background-position:center;
+    cursor:default;
     text-align: center;
   }
+
 
 /*------ OTHER DESGINGING ----------------------------------------------------*/
 
 
+
+/*Change all links.*/
+  .a1{
+  color: #f4f3ee;
+  cursor: pointer;
+  }
+
+/*Change links with class name a2*/
+
+.a2{
+  color: #f4f3ee;
+  cursor: pointer;
 }
 
-a{
-color: #f4f3ee;
-cursor: pointer;
-animation-name: example;
-animation-duration: 4s;
+
+.Div1{
+  animation-name: example;
+  animation-duration: 4s;
+  animation-iteration-count: infinite;
 
 }
+.Div2{
+  animation-name: example;
+  animation-duration: 4s;
+  animation-iteration-count: infinite;
+
+}
+
 
 /* This will change the color of the "Continue" when pointer is over it*/
 @keyframes example{
-  from {color: green;}
-  to {color: black;}
+  from {color: #f4f3ee;}
+  to {color: cyan;}
 
 }
