@@ -1,0 +1,51 @@
+@charset "utf-8";
+/* CSS Document */
+
+/*------ BASIC FORMATTING ----------------------------------------------------*/
+html{
+  margin: 0 auto;
+  border: 0 auto;
+}
+
+
+/*------ BLOCKING/LAYOUT -----------------------------------------------------*/
+body{
+  background-image: url("background.gif");
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-color: #F7F3DE;
+
+}
+
+/*------ TYPOGRAPHY ----------------------------------------------------------*/
+p{
+  font-family: 'Quicksand', sans-serif;
+  color: #f4f3ee;
+  line-height: 140%;
+  margin: 30px;
+}
+
+
+  h1{
+    font-family: 'Press Start 2P', cursive;
+    color: #f4f3ee;
+    background-position:center;
+    cursor:default;
+    text-align: center;
+    font-size: 70px;
+  }
+.BubbleStart{
+z-index: 99999;
+
+}
+
+/*------ OTHER DESGINGING ----------------------------------------------------*/
+
+.button {
+  background-color: #4CAF50;
+  border: none;
+
+
+  cursor: pointer;
+}
+/* This will change the color of the "Continue" when pointer is over it*/
