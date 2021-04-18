@@ -93,6 +93,28 @@ p{
 }
 
 
+.Brenna:hover{
+  color: cyan;
+  transition-duration: 2s;
+}
+
+.Anai:hover{
+  color: cyan;
+  transition-duration: 2s;
+}
+
+.Alyssa:hover{
+  color: cyan;
+  transition-duration: 2s;
+}
+
+.Jonathan:hover{
+  color: cyan;
+  transition-duration: 2s;
+}
+
+
+
 
 .a2:hover{
   font-weight: bold;
