@@ -18,7 +18,14 @@ body{
 }
 
 /*------ TYPOGRAPHY ----------------------------------------------------------*/
-p{
+article{
+  font-family: 'Quicksand', sans-serif;
+  color: #fff;
+  line-height: 140%;
+  margin: 30px;
+}
+
+.l{
   font-family: 'Quicksand', sans-serif;
   color: #f4f3ee;
   line-height: 140%;
@@ -33,12 +40,6 @@ h1{
   cursor:default;
   text-align: center;
   font-size: 70px;
-}
-ul{
-  font-family: 'Quicksand', sans-serif;
-  color: #f4f3ee;
-  line-height: 140%;
-  margin: 30px;
 }
 
 .BubbleStart{
