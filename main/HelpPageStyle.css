@@ -44,11 +44,11 @@ p{
   padding-top:600px;
   list-style-type:none;
   text-align: center;
-  font-size: 32px;
+  font-size: 22px;
   pointer-events: auto;
   }
 
   .a2:hover{
     font-weight: bold;
-    font-size: 52px;
+    font-size: 32px;
   }
