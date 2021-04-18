@@ -51,9 +51,9 @@ p{
 
 /*------ OTHER DESGINGING ----------------------------------------------------*/
 img{
-  width: 100px;
+  width: 200px;
 }
 
 img:hover{
-  width: 110px;
+  width: 210px;
 }
