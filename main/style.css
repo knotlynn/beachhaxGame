@@ -34,7 +34,10 @@ p{
     text-align: center;
     font-size: 70px;
   }
+.BubbleStart{
+z-index: 99999;
 
+}
 
 /*------ OTHER DESGINGING ----------------------------------------------------*/
 
@@ -73,6 +76,8 @@ list-style-type:none;
 text-align: center;
 border: 3px solid #73AD21;
 font-size: 32px;
+pointer-events: auto;
+
 }
 
 a:hover{
