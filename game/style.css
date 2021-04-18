@@ -21,6 +21,14 @@ header{
 main{
 }
 
+canvas#game{
+/*border: 1px solid #f4f3ee;
+margin-left:0 auto;
+margin-right:0 auto;
+width: 800px;
+height: 600px;*/
+}
+
 /*------ TYPOGRAPHY ----------------------------------------------------------*/
 p{
   font-family: 'Quicksand', sans-serif;
