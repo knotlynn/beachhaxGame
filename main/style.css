@@ -34,6 +34,12 @@ h1{
   text-align: center;
   font-size: 70px;
 }
+ul{
+  font-family: 'Quicksand', sans-serif;
+  color: #f4f3ee;
+  line-height: 140%;
+  margin: 30px;
+}
 
 .BubbleStart{
   z-index: 99999;
