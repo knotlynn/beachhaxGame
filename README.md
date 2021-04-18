@@ -7,6 +7,10 @@ our submission for the BeachHacks Hack-a-Thon
   - Brenna Curtis
   - Jonathan Garcia Moreno
 
+
+##### Our Work:
+https://knotlynn.github.io/beachhaxGame/main/index.html
+
 ##### Concept:
 > A browser choose your own adventure game. We try to make it funny and nice to look at, but we might fail a but. who knows! It's an adventure :)
 
