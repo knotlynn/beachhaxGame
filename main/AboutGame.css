@@ -17,11 +17,48 @@ body{
 }
 
 
+
+h1{
+  font-family: 'Press Start 2P', cursive;
+  color: #f4f3ee;
+  background-position:center;
+  cursor:default;
+  text-align: center;
+}
+
+h2{
+  font-family: 'Press Start 2P', cursive;
+  color: #f4f3ee;
+  background-position:center;
+  cursor:default;
+  text-align: center;
+  font-size: 50px;
+}
+
+
 .a2{
   color: #f4f3ee;
   cursor: pointer;
 }
+.Brenna{
+  color: #f4f3ee;
+  cursor: pointer;
+}
 
+.Anai{
+  color: #f4f3ee;
+  cursor: pointer;
+}
+
+.Alyssa{
+  color: #f4f3ee;
+  cursor: pointer;
+}
+
+.Jonathan{
+  color: #f4f3ee;
+  cursor: pointer;
+}
 
 .ReturnMenu{
   font-family: 'Press Start 2P', cursive;
@@ -29,6 +66,18 @@ body{
   color: #f4f3ee;
   margin:60px;
   padding-top:100px;
+  list-style-type:none;
+  text-align: center;
+  font-size: 22px;
+  pointer-events: auto;
+}
+
+.Contributors{
+  font-family: 'Press Start 2P', cursive;
+  animation-name: example;
+  color: #f4f3ee;
+  margin:60px;
+  padding-top: 0;
   list-style-type:none;
   text-align: center;
   font-size: 22px;
@@ -44,16 +93,8 @@ p{
 }
 
 
-h1{
-  font-family: 'Press Start 2P', cursive;
-  color: #f4f3ee;
-  background-position:center;
-  cursor:default;
-  text-align: center;
-}
 
-
-a:hover{
+.a2:hover{
   font-weight: bold;
   font-size: 32px;
 }
