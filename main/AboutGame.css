@@ -10,11 +10,12 @@ html{
 
 /*------ BLOCKING/LAYOUT -----------------------------------------------------*/
 body{
-  background-image: url("twinkle.gif");
+  background-image: url("twinkle0.gif");
   background-repeat: no-repeat;
   background-attachment: fixed;
   background-color: #F7F3DE;
 }
+
 
 .a2{
   color: #f4f3ee;
