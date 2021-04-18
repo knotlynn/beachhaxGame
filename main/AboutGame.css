@@ -1,0 +1,59 @@
+@charset "utf-8";
+/* CSS Document */
+
+/*------ BASIC FORMATTING ----------------------------------------------------*/
+html{
+  margin: 0 auto;
+  border: 0 auto;
+}
+
+
+/*------ BLOCKING/LAYOUT -----------------------------------------------------*/
+body{
+  background-image: url("twinkle.gif");
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-color: #F7F3DE;
+
+}
+
+.a2{
+  color: #f4f3ee;
+  cursor: pointer;
+}
+
+
+.ReturnMenu{
+  font-family: 'Press Start 2P', cursive;
+  animation-name: example;
+  color: #f4f3ee;
+  margin:60px;
+  padding-top:100px;
+  list-style-type:none;
+  text-align: center;
+  font-size: 32px;
+  pointer-events: auto;
+  }
+
+/*------ TYPOGRAPHY ----------------------------------------------------------*/
+p{
+  font-family: 'Quicksand', sans-serif;
+  color: #f4f3ee;
+  line-height: 140%;
+  margin: 30px;
+}
+
+
+  h1{
+    font-family: 'Press Start 2P', cursive;
+    color: #f4f3ee;
+    background-position:center;
+    cursor:default;
+    text-align: center;
+  }
+
+
+  a:hover{
+    font-weight: bold;
+    font-size: 40px;
+  }
