@@ -20,18 +20,10 @@ body{
 /*------ TYPOGRAPHY ----------------------------------------------------------*/
 article{
   font-family: 'Quicksand', sans-serif;
-  color: #fff;
-  line-height: 140%;
-  margin: 30px;
-}
-
-.l{
-  font-family: 'Quicksand', sans-serif;
   color: #f4f3ee;
   line-height: 140%;
   margin: 30px;
 }
-
 
 h1{
   font-family: 'Press Start 2P', cursive;
