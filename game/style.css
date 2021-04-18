@@ -12,6 +12,10 @@ body{
   background-repeat: no-repeat;
   background-attachment: fixed;
   background-color: #F7F3DE;
+
+  width: 80%;
+  min-width: 800px;
+  margin: 0 auto;
 }
 
 header{
@@ -37,8 +41,9 @@ body{
 p{
   font-family: 'Quicksand', sans-serif;
   color: #f4f3ee;
-  line-height: 140%;
+  line-height: 100%;
   margin: 30px;
+  text-align: center;
 }
 
 
@@ -53,7 +58,37 @@ p{
 img{
   width: 200px;
 }
-
 img:hover{
   width: 210px;
 }
+
+
+.a2{
+  color: #f4f3ee;
+  cursor: pointer;
+}
+
+
+.Choice1{
+  font-family: 'Press Start 2P', cursive;
+  animation-name: example;
+  margin:50px;
+  padding:50px;
+  text-align: center;
+  font-size: 24px;
+}
+
+.Choice2{
+  font-family: 'Press Start 2P', cursive;
+  animation-name: example;
+  margin:50px;
+  padding:50px;
+  list-style-type:none;
+  text-align: center;
+  font-size: 24px;
+  pointer-events: auto;
+}
+
+.Choice1:hover, .Choice2:hover{
+  font-weight: bold;
+  font-size: 30px;
