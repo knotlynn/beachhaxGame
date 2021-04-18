@@ -32,7 +32,9 @@ margin-right:0 auto;
 width: 800px;
 height: 600px;*/
 }
-
+aside{
+  padding: 3%;
+}
 /*------ TYPOGRAPHY ----------------------------------------------------------*/
 body{
   font-family: 'Quicksand', sans-serif;
