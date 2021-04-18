@@ -32,6 +32,7 @@ p{
     background-position:center;
     cursor:default;
     text-align: center;
+    font-size: 70px;
   }
 
 
@@ -56,27 +57,27 @@ p{
 .Choice1{
   font-family: 'Press Start 2P', cursive;
   animation-name: example;
-  list-style-type:none;
-    margin:100px;
+    margin:60px;
     padding:100px;
     text-align: center;
-    font-size: 42px;
+    border: 3px solid #73AD21;
+    font-size: 32px;
 
 }
 .Choice2{
-  font-family: 'Press Start 2P', cursive;
-  animation-name: example;
-  list-style-type:none;
-    margin:100px;
-    padding:100px;
-    text-align: center;
-    font-size: 42px;
-
+font-family: 'Press Start 2P', cursive;
+animation-name: example;
+margin:60px;
+padding:100px;
+list-style-type:none;
+text-align: center;
+border: 3px solid #73AD21;
+font-size: 32px;
 }
 
 a:hover{
   font-weight: bold;
-  font-size: 50px;
+  font-size: 40px;
 }
 
 /* This will change the color of the "Continue" when pointer is over it*/
