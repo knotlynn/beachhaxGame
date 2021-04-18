@@ -7,7 +7,7 @@ html{
 
 /*------ BLOCKING/LAYOUT -----------------------------------------------------*/
 body{
-  background-image: url("backgroundStill.png");
+  background-image: url("photos/twinkle.gif");
   background-size: 2000px;
   background-repeat: no-repeat;
   background-attachment: fixed;
@@ -32,7 +32,9 @@ margin-right:0 auto;
 width: 800px;
 height: 600px;*/
 }
-
+aside{
+  padding: 3%;
+}
 /*------ TYPOGRAPHY ----------------------------------------------------------*/
 body{
   font-family: 'Quicksand', sans-serif;
@@ -51,6 +53,10 @@ h1{
   color: #f4f3ee;
   background-position:center;
   text-align: center;
+}
+
+a{
+  font-color: #f4f3ee;
 }
 
 /*------ OTHER DESGINGING ----------------------------------------------------*/
