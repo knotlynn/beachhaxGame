@@ -26,13 +26,13 @@ p{
 }
 
 
-  h1{
-    font-family: 'Press Start 2P', cursive;
-    color: #f4f3ee;
-    background-position:center;
-    cursor:default;
-    text-align: center;
-  }
+h1{
+  font-family: 'Press Start 2P', cursive;
+  color: #f4f3ee;
+  background-position:center;
+  cursor:default;
+  text-align: center;
+}
 
 
 /*------ OTHER DESGINGING ----------------------------------------------------*/
@@ -46,14 +46,14 @@ p{
   text-align: center;
   font-size: 32px;
   pointer-events: auto;
-  }
+}
 
 .a2{
-color: #f4f3ee;
-font-size: 22px;
-
+  color: #f4f3ee;
+  font-size: 22px;
 }
-  .a2:hover{
-    font-weight: bold;
-    font-size: 30px;
-  }
+
+.a2:hover{
+  font-weight: bold;
+  font-size: 30px;
+}

@@ -26,17 +26,17 @@ p{
 }
 
 
-  h1{
-    font-family: 'Press Start 2P', cursive;
-    color: #f4f3ee;
-    background-position:center;
-    cursor:default;
-    text-align: center;
-    font-size: 70px;
-  }
-.BubbleStart{
-z-index: 99999;
+h1{
+  font-family: 'Press Start 2P', cursive;
+  color: #f4f3ee;
+  background-position:center;
+  cursor:default;
+  text-align: center;
+  font-size: 70px;
+}
 
+.BubbleStart{
+  z-index: 99999;
 }
 
 /*------ OTHER DESGINGING ----------------------------------------------------*/
@@ -44,10 +44,10 @@ z-index: 99999;
 
 
 /*Change all links.*/
-  .a1{
+.a1{
   color: #f4f3ee;
   cursor: pointer;
-  }
+}
 
 /*Change links with class name a2*/
 
@@ -60,23 +60,21 @@ z-index: 99999;
 .Choice1{
   font-family: 'Press Start 2P', cursive;
   animation-name: example;
-    margin:60px;
-    padding:100px;
-    text-align: center;
-
-    font-size: 32px;
-
+  margin:60px;
+  padding:100px;
+  text-align: center;
+  font-size: 32px;
 }
-.Choice2{
-font-family: 'Press Start 2P', cursive;
-animation-name: example;
-margin:60px;
-padding:100px;
-list-style-type:none;
-text-align: center;
-font-size: 32px;
-pointer-events: auto;
 
+.Choice2{
+  font-family: 'Press Start 2P', cursive;
+  animation-name: example;
+  margin:60px;
+  padding:100px;
+  list-style-type:none;
+  text-align: center;
+  font-size: 32px;
+  pointer-events: auto;
 }
 
 a:hover{

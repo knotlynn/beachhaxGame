@@ -14,7 +14,6 @@ body{
   background-repeat: no-repeat;
   background-attachment: fixed;
   background-color: #F7F3DE;
-
 }
 
 .a2{
@@ -33,7 +32,7 @@ body{
   text-align: center;
   font-size: 22px;
   pointer-events: auto;
-  }
+}
 
 /*------ TYPOGRAPHY ----------------------------------------------------------*/
 p{
@@ -44,16 +43,16 @@ p{
 }
 
 
-  h1{
-    font-family: 'Press Start 2P', cursive;
-    color: #f4f3ee;
-    background-position:center;
-    cursor:default;
-    text-align: center;
-  }
+h1{
+  font-family: 'Press Start 2P', cursive;
+  color: #f4f3ee;
+  background-position:center;
+  cursor:default;
+  text-align: center;
+}
 
 
-  a:hover{
-    font-weight: bold;
-    font-size: 32px;
-  }
+a:hover{
+  font-weight: bold;
+  font-size: 32px;
+}
